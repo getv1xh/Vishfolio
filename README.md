@@ -1,4 +1,4 @@
-# Vishfolio
+# Personal Portfolio by [Vish](https://vishlabs.xyz/)
 
 
 
