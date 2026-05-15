@@ -287,8 +287,7 @@ Deploy instantly on:
 ---
 
 # Author
-
-Built by Vish.
+[Built by Vish.](https://www.vishlabs.xyz)
 
 Focused on crafting smooth developer experiences with modern frontend systems.
 
