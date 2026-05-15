@@ -1,8 +1,6 @@
 # Vishfolio
 
-<p align="center">
-  <img src="./public/preview/hero.png" width="100%" style="border-radius:18px; box-shadow:0 20px 60px rgba(0,0,0,0.45);" />
-</p>
+
 
 <p align="center">
   <strong>A premium cinematic developer portfolio crafted with motion, depth, and modern interface design.</strong>
