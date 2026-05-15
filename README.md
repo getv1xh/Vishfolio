@@ -26,32 +26,6 @@ The goal was to create a portfolio that feels calm, polished, and memorable with
 
 ---
 
-## Preview
-
-### Hero Experience
-
-<p align="center">
-  <img src="./public/preview/hero.png" width="100%" style="border-radius:20px; box-shadow:0 18px 60px rgba(0,0,0,0.45);" />
-</p>
-
----
-
-### About & Skills
-
-<p align="center">
-  <img src="./public/preview/about-skills.png" width="100%" style="border-radius:20px; box-shadow:0 18px 60px rgba(0,0,0,0.45);" />
-</p>
-
----
-
-### Projects Showcase
-
-<p align="center">
-  <img src="./public/preview/projects.png" width="100%" style="border-radius:20px; box-shadow:0 18px 60px rgba(0,0,0,0.45);" />
-</p>
-
----
-
 ## Features
 
 * Smooth cinematic scrolling
