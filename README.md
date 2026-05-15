@@ -118,10 +118,7 @@ app/
  ├── layout.tsx
  └── page.tsx
 
-public/
- ├── preview.png
- ├── hero.png
- └── projects.png
+
 ```
 
 ---
